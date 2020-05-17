@@ -5,7 +5,7 @@ def line(katz_deli)
     puts "The line is currently empty."
     counter += 1 = current_people_in_line
   end
-  
+  current_people_in_line
 end
 
 
